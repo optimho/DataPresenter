@@ -1,0 +1,4 @@
+FLASK_APP = webApp
+FLASK_ENV= development
+MONGO_DBNAME = 'IoT'
+MONGO_CLIENT = IoT
